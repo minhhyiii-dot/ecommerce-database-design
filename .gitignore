@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+generated/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.docx
+*.xlsx
+.obsidian/
